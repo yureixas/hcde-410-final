@@ -4,13 +4,16 @@
 
 # A4
 
-Motivation & problem
+## AI Usage:
+I did not use AI for this assignment.
+
+## Motivation & problem
 I want to learn how well different languages are represented in online information, and whether people who speak certain languages may have more or less access to information online than others. I chose to look specifically at Wikipedia, as it is commonly used online to learn about information on topics, so I want to see if there are gaps between how many people speak a language and how much Wikipedia content exists in it to show where information access is unequal. I hope to learn which languages are most underrepresented based on speaker population, and which are overrepresented. I understand that this analysis does not mean that certain languages have more or less representation in online information, as I am only looking at Wikipedia.
 
-Data
+## Data
 — the dataset(s), what they contain, a link, the license/terms, why they fit, and any ethical considerations.
 
-Wikipedia
+### Wikipedia
 The dataset I will be looking into is the List of Wikipedia statistics, it is open source and contains data for each language's Wikipedia, including language, articles, pages, edits, files, admins, users, and files. The data in the table comes from Data:Wikipedia statistics/data.tab It contains data on all Wikipedia sites, including active users, admins, articles, edits, files, pages, and users.
 
 The license says that the data available falls under Creative Commons Zero.
