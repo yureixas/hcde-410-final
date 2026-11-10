@@ -1,12 +1,16 @@
 # hcde-410-final
 
 ## License:
-MIT License
+Creative Commons License
 
-# A4
+## Datasets I will be using:
+[List of Wikipedia statistics](https://meta.wikimedia.org/wiki/List_of_Wikipedias)
+[LinguaMeta](https://github.com/google-research/url-nlp/blob/main/linguameta/README.md)
 
-I want to learn how well different languages are represented in online information and chose to look specifically at Wikipedia. I hope to learn which languages are most underrepresented based on speaker population, and which are overrepresented. 
 
+# A4.ipynb
+
+This notebook contains information on motivation & problem, data, unknowns & dependencies, and feedback from class. My project is focused on learning how much access someone has to information online based on the language they speak, specifically for Wikipedia.
 
 ## AI Usage:
 I did not use AI for this assignment.
