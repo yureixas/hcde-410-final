@@ -17,7 +17,7 @@ My overview contains information on my motivation & problem, research questions,
 
 ## AI Usage:
 
-I did use AI to help me find resources for related work, specifically for the Wikipedia Diversity Observatory information and repository.
+I did use AI to help me find resources for related work, specifically for the Wikipedia Diversity Observatory information and repository. I double-checked that the information was accurate by looking at the official Wikipedia Diversity Observatory site.
 
 # References
 - Johnson, I., Lescak, E. "Considerations for multilingual wikipedia research." arXiv (2022). https://arxiv.org/abs/2204.02483 
