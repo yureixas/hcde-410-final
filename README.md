@@ -1,7 +1,7 @@
 # hcde-410-final
 
 ## License:
-Creative Commons License
+Creative Commons License and MIT License
 
 ## Datasets I will be using:
 [List of Wikipedia statistics](https://meta.wikimedia.org/wiki/List_of_Wikipedias)
